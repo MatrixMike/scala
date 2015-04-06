@@ -1,4 +1,4 @@
-object Test {
+object Test2 {
 def main(args: Array[String]) {
 print("Please enter your input : " )
 val line = Console.readLine
