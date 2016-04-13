@@ -9,7 +9,9 @@ def main(args: Array[String]) {
 val now = new Date
  //   DateFormat df;
 //    df = DateFormat.getDateInstance(style, Locale.UK);
-// http://www.tutorialspoint.com/java/util/java_util_locale.htm
+// http://www.tutorialspoint.com/java/util/java_util_locale.htm. 
+// https://github.com/MatrixMike/clojure/blob/master/ThaiDigits.java
+
 var df = getDateInstance(LONG, Locale.UK)
 	println(df format now)
 	
