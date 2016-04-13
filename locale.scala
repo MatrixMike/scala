@@ -9,6 +9,7 @@ def main(args: Array[String]) {
 val now = new Date
  //   DateFormat df;
 //    df = DateFormat.getDateInstance(style, Locale.UK);
+// http://www.tutorialspoint.com/java/util/java_util_locale.htm
 var df = getDateInstance(LONG, Locale.UK)
 	println(df format now)
 	
@@ -36,10 +37,27 @@ var df = getDateInstance(LONG, Locale.UK)
 	
 	df = getDateInstance(LONG, Locale.JAPAN)
 	println(df format now)
-	
+		
 	df = getDateInstance(LONG, Locale.CHINA)
 	println(df format now)
-		
+			
+	df = getDateInstance(LONG, Locale.GERMANY)
+	println(df format now)
+				
+	df = getDateInstance(LONG, Locale.TAIWAN)
+	println(df format now)
+	
+	df = getDateInstance(LONG, Locale.PRC)
+	println(df format now)
+	System.out.println("Debug2 ");	
+		df = getDateInstance(LONG, Locale.ROOT)
+	println(df format now)
+/*	
+	public static Locale[] getAvailableLocales()
+	
+		df = getDateInstance(LONG, Locale.RUSSIA)
+	println(df format now)	
+	* */
  /*   df = getDateInstance(LONG, Locale.VIETNAM)
 	println(df format now)
 	*/
