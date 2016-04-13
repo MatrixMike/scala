@@ -33,6 +33,13 @@ var df = getDateInstance(LONG, Locale.UK)
 	
 	df = getDateInstance(LONG, Locale.CANADA)
 	println(df format now)
+	
+	df = getDateInstance(LONG, Locale.JAPAN)
+	println(df format now)
+	
+	df = getDateInstance(LONG, Locale.CHINA)
+	println(df format now)
+		
 	/*
     df = DateFormat.getDateInstance(style, Locale.US);
     System.out.println("USA: " + df.format(date));   
@@ -41,8 +48,8 @@ var df = getDateInstance(LONG, Locale.UK)
     df = DateFormat.getDateInstance(style, Locale.ITALY);
     System.out.println("Italy: " + df.format(date));
     */
-    df = DateFormat.getDateInstance(style, Locale.JAPAN);
+ /*   df = DateFormat.getDateInstance(style, Locale.JAPAN);
     System.out.println("Japan: " + df.format(date));
-  
+  */
   }
 }
