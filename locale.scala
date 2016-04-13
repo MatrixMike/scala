@@ -40,6 +40,10 @@ var df = getDateInstance(LONG, Locale.UK)
 	df = getDateInstance(LONG, Locale.CHINA)
 	println(df format now)
 		
+ /*   df = getDateInstance(LONG, Locale.VIETNAM)
+	println(df format now)
+	*/
+		
 	/*
     df = DateFormat.getDateInstance(style, Locale.US);
     System.out.println("USA: " + df.format(date));   
