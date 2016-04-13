@@ -9,7 +9,7 @@
 import scala.collection.mutable.ListBuffer
 
 
-object BikeGears{
+object BikeGears3{
 def main(args: Array[String]) {
 var a = 0;
 var something = List(2.0, 3.0, 4.0);

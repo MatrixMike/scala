@@ -1,0 +1,6 @@
+scala tips
+
+can compile whole folder with scalac *.scala
+recall to add  -deprecation   to command line
+
+

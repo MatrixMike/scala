@@ -9,7 +9,7 @@
 import scala.collection.mutable.ListBuffer
 
 
-object BikeGears{
+object BikeGearsSG{
 def main(args: Array[String]) {
 var a = 0;
 var FrontList = List(22.0, 32.0, 42.0);  // make float so division is 
