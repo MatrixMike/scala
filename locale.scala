@@ -13,7 +13,7 @@ val now = new Date
 // https://github.com/MatrixMike/clojure/blob/master/ThaiDigits.java
 
 var df = getDateInstance(LONG, Locale.UK)
-	println(df format now)
+	print("UK "); println(df format now)
 	
 	df = getDateInstance(LONG, Locale.US)
 	println(df format now)	
@@ -22,17 +22,17 @@ var df = getDateInstance(LONG, Locale.UK)
 	println(df format now)	
 	
 	df = getDateInstance(LONG, Locale.ITALY)
-	println(df format now)	
+	print("Italy "); println(df format now)	
 	
 	df = getDateInstance(LONG, Locale.JAPAN)
 	println(df format now)
 	
 	df = getDateInstance(LONG, Locale.FRANCE)
-	println(df format now)
+	print("France "); println(df format now)
 	System.out.print("Debug1 ");
 
 	df = getDateInstance(LONG, Locale.KOREA)
-	println(df format now)
+	print("Korea "); println(df format now)
 	
 	df = getDateInstance(LONG, Locale.CANADA)
 	println(df format now)
@@ -44,7 +44,7 @@ var df = getDateInstance(LONG, Locale.UK)
 	println(df format now)
 			
 	df = getDateInstance(LONG, Locale.GERMANY)
-	println(df format now)
+	print("Germany "); println(df format now)
 				
 	df = getDateInstance(LONG, Locale.TAIWAN)
 	println(df format now)
