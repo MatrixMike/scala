@@ -1,0 +1,1000 @@
+ 1091  git status
+ 1092  git clone https://github.com/MatrixMike/midlet-fpcalc.git
+ 1093  git status
+ 1094  git add run.bat 
+ 1095  git commit 
+ 1096  git status
+ 1097  tree
+ 1098  git push https://github.com/MatrixMike/midlet-fpcalc.git
+ 1099  git pull https://github.com/MatrixMike/midlet-fpcalc.git
+ 1100  git push https://github.com/MatrixMike/midlet-fpcalc.git
+ 1101  git status
+ 1102  git add CalculatorMIDlet.java 
+ 1103  git commit
+ 1104  git status
+ 1105  tree
+ 1106  git push https://github.com/MatrixMike/midlet-fpcalc.git
+ 1107  ls -lct
+ 1108  ls -lctr
+ 1109  java Main
+ 1110  java Main  &
+ 1111  git status
+ 1112  git add Main.java 
+ 1113  git commit
+ 1114  gitk
+ 1115  java Main  &
+ 1116  cd ~/iPadCourse/
+ 1117  ls -lctr
+ 1118  git init
+ 1119  git status
+ 1120  git add .
+ 1121  git commit
+ 1122  git status
+ 1123  gitk
+ 1124  history | grep hex
+ 1125  cat tspaces.txt | hexdump -e '16/1 "%02X ""\t"" "' -e '8/1 "%c""\n"'
+ 1126  cat NotesIdeas.txt     | hexdump -e '16/1 "%02X ""\t"" "' -e '8/1 "%c""\n"'
+ 1127  git status
+ 1128  git add NotesIdeas.txt
+ 1129  git commit
+ 1130  git status
+ 1131  gitk
+ 1132  git status
+ 1133  git add NotesIdeas.txt
+ 1134  git commit
+ 1135  ls -lctr
+ 1136  ls -lctr
+ 1137  java MyApp  &
+ 1138  git status
+ 1139  git add .
+ 1140  git status
+ 1141  git commit 
+ 1142  git status
+ 1143  git log
+ 1144  gitk
+ 1145  history | grep push
+ 1146  git push https://github.com/MatrixMike/javafx.git
+ 1147  ls -lctr
+ 1148  javac *.java
+ 1149  ls -lctr
+ 1150  java Main  &
+ 1151  java MyApp  &
+ 1152  git status
+ 1153  git add .
+ 1154  git commit
+ 1155  git status
+ 1156  ls -lctr
+ 1157  java MyApp  &
+ 1158  git add MyApp.java 
+ 1159  git commit
+ 1160  git status
+ 1161  ls -lctr
+ 1162  calc
+ 1163  cd ~/clojure/clojure-master/
+ 1164  ls -lctr
+ 1165  clojure1.4 string-eye.clj 
+ 1166  cat string-eye.clj 
+ 1167  clojure1.4 
+ 1168  cal
+ 1169  cal  2016
+ 1170  cd stringEye/
+ 1171  ls -lctr
+ 1172  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1173  pw
+ 1174  pwd
+ 1175  java -jar /home/mikeh/clojure/clojure-master/stringEye/stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1176  cd ~/
+ 1177  java -jar /home/mikeh/clojure/clojure-master/stringEye/stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1178  cd stringEye/
+ 1179  cd ~/clojure/clojure-master/
+ 1180  cd stringEye/
+ 1181  git status
+ 1182  lein uberjar
+ 1183  git status
+ 1184  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1185  cd ~/aspergers/
+ 1186  ls -lctr
+ 1187  gedit Preston1.txt &
+ 1188  cd ~/clojure/clojure-master/
+ 1189  cd stringEye/
+ 1190  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1191  ls -lctr
+ 1192  cd ..
+ 1193  git status
+ 1194  git pull
+ 1195  ls -lctr
+ 1196  cd ~/javafx/
+ 1197  ls -lctr
+ 1198  java Main
+ 1199  java Main &
+ 1200  java MyApp &
+ 1201  java Main &
+ 1202  java MyApp &
+ 1203  ls -lctr
+ 1204  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1205  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar   &
+ 1206  ifconfig 
+ 1207  ifconfig  wlan up
+ 1208  sudo ifconfig  wlan up
+ 1209  sudo ifconfig  wlan
+ 1210  cal
+ 1211  cal  2016
+ 1212  whois 
+ 1213  whois electroteach.com
+ 1214  whois www.wow-willingolderworkers.com.au
+ 1215  whois wow-willingolderworkers.com.au
+ 1216  cd ~/WOW/
+ 1217  ls -lctr
+ 1218  whois wow-willingolderworkers.com.au > whoisWOW.txt
+ 1219  ls -lctr
+ 1220  cat whoisWOW.txt 
+ 1221  whois wow-willingolderworkers.com.au
+ 1222  ifconfig 
+ 1223  cd ~/
+ 1224  ls -lctr
+ 1225  gnome-disks 
+ 1226  brasero &
+ 1227  cd ~/javafx/
+ 1228  java -jar stringEye-1.0.2-SNAPSHOT-standalone.jar 
+ 1229  java Main &
+ 1230  java MyApp &
+ 1231  cd ~/
+ 1232  ls -lctr
+ 1233  cd /home/mikeh/
+ 1234  /media/mikeh/My Disc/
+ 1235  cd /media/mikeh/My Disc/
+ 1236  cd '/media/mikeh/My Disc/'
+ 1237  ls -lctr
+ 1238  tree
+ 1239  tree > ~/WOW/webkitTree1.txt
+ 1240  cat ~/WOW/webkitTree1.txt
+ 1241  tree
+ 1242  ifconfig 
+ 1243  dmesg
+ 1244  bnep
+ 1245  dmesg
+ 1246  man ifconfig 
+ 1247  cd ?~
+ 1248  cd ~/
+ 1249  ls | grep blue
+ 1250  cd bluetoothStuff/
+ 1251  ls -lctr
+ 1252  cat RNBT-80C5.txt 
+ 1253  cd ~/
+ 1254  ls | grep blue
+ 1255  cd bluetooth
+ 1256  ls -lctr
+ 1257  cd ~/WOW/
+ 1258  ls -lctr
+ 1259  cat webkitTree1.txt 
+ 1260  ls -lctr
+ 1261  gedit Marilyn1.txt
+ 1262  gedit Marilyn1.txt   &
+ 1263  ls -lctr
+ 1264  gedit Marilyn1.txt   &
+ 1265  history | grep blue
+ 1266  cd ~/bluetoothStuff/
+ 1267  ls -lctr
+ 1268  git status
+ 1269  git init
+ 1270  git add bluez3.txt 
+ 1271  git add RNBT-80C5.txt 
+ 1272  cat bluez2.txt 
+ 1273  git add bluez2.txt 
+ 1274  git status
+ 1275  git commit
+ 1276  history | grep blue
+ 1277  bluez-test-device list > bluez3.txt
+ 1278  bluez-test-device list
+ 1279  bluez-test-device list > bluez3.txt
+ 1280  git status
+ 1281  gitk
+ 1282  git status
+ 1283  bluez-test-device list > bluez3.txt
+ 1284  bluez-test-device list > bluez4.txt
+ 1285  history | grep blue
+ 1286  bluez-test-device 
+ 1287  bluez-test-device list
+ 1288  bluez-test-device list > bluez3.txt
+ 1289  history | grep blue
+ 1290  man history 
+ 1291  git log
+ 1292  git show
+ 1293  git log
+ 1294  ifconfig 
+ 1295  dmesg 
+ 1296  ifconfig 
+ 1297  sudo ifconfig wlan3 down
+ 1298  ifconfig 
+ 1299  sudo ifconfig wlan0 down
+ 1300  ifconfig 
+ 1301  dpkg
+ 1302  dpkg --help
+ 1303  dpkg --print-architecture
+ 1304  dpkg --print-foreign-architectures
+ 1305  cd /boot/
+ 1306  ls -lctr
+ 1307  du
+ 1308  sudo du
+ 1309  ls -lc
+ 1310  uname -a
+ 1311  ls -lc
+ 1312  df -h
+ 1313  cd ~/LUV/
+ 1314  ls -lc
+ 1315  ls -lctr
+ 1316  gedit &
+ 1317  cd ~/javaLowLevel/
+ 1318  ls -lc
+ 1319  ls -lctr
+ 1320  java CBfreq 
+ 1321  javap CBfreq 
+ 1322  javap -c CBfreq 
+ 1323  javap
+ 1324  javap -v
+ 1325  javap -c CBfreq -v
+ 1326  javap -c CBfreq -v -l
+ 1327  javap
+ 1328  javap -c CBfreq -v -l -s
+ 1329  javap -c CBfreq -v -l
+ 1330  javap -cvl CBfreq 
+ 1331  javap
+ 1332  javap -c -v -l CBfreq 
+ 1333  javap
+ 1334  javap -c -v -l -p CBfreq 
+ 1335  javap
+ 1336  javap -c -v -l -p -s CBfreq 
+ 1337  javap
+ 1338  javap -c -v -l -p -s -constants CBfreq 
+ 1339  javap
+ 1340  javap -c -v -l -p -s -constants -version CBfreq 
+ 1341  cd ~/clojure/clojure-master/
+ 1342  ls -lc
+ 1343  cd ~/scala/
+ 1344  ls -lc
+ 1345  scalac forList.scala 
+ 1346  ls -lc
+ 1347  ls -lctr
+ 1348  scalac gears.scala 
+ 1349  cd ~/
+ 1350  ls -lc
+ 1351  ls -lctr
+ 1352  cd ~/bashStuff/
+ 1353  ls -lc
+ 1354  ./test3.sh 
+ 1355  ./test2.sh 
+ 1356  cd ~/
+ 1357  ls -lc
+ 1358  ls -lctr
+ 1359  ls -lc
+ 1360  cd classes/
+ 1361  ls -lc
+ 1362  cd javaxSwingSMD/
+ 1363  ls -lc
+ 1364  javap -c core.class 
+ 1365  ls -lc
+ 1366  javap -c core\$fn__51.class
+ 1367  ls -lc
+ 1368  javap -c core__init.class 
+ 1369  javap -c core__init.class | more
+ 1370  javap -c core__init.class | grep public
+ 1371  gedit &
+ 1372  geany &
+ 1373  chmod --help
+ 1374  info coreutils 'chmod invocation'
+ 1375  history | grep chmod
+ 1376  ls -lc
+ 1377  chmod +777 test2.sh 
+ 1378  ./test2.sh 
+ 1379  cat test2.sh 
+ 1380  ./test2.sh 
+ 1381  ls -lc
+ 1382  cat test2.sh 
+ 1383  ./test2.sh 
+ 1384  ls -lc
+ 1385  cat ~/bashStuff/test2.sh 
+ 1386  .~/bashStuff/test2.sh 
+ 1387  ls  ~/bashStuff/test2.sh 
+ 1388  ls  ~/bashStuff/
+ 1389  ls  ~/bashStuff/   -lc
+ 1390  ./home/mike/bashStuff/test2.sh 
+ 1391  pwd
+ 1392  ./home/mikeh/bashStuff/test2.sh 
+ 1393  ls /home/mikeh/bashStuff/test2.sh 
+ 1394  mv  /home/mikeh/bashStuff/test2.sh .
+ 1395  ls -lc
+ 1396  ./test2.sh 
+ 1397  mv  /home/mikeh/bashStuff/test3.sh .
+ 1398  ls -lc
+ 1399  ./test3.sh 
+ 1400  mv  /home/mikeh/bashStuff/test1.sh .
+ 1401  ls -lc
+ 1402  ./test1.sh 
+ 1403  cat test1.sh 
+ 1404  cat test2.sh 
+ 1405  cat test3.sh 
+ 1406  ./test2.sh 
+ 1407  cat test2.sh 
+ 1408  ./test2.sh 
+ 1409  ls -lc
+ 1410  javap core.class 
+ 1411  ./test2.sh 
+ 1412  cat test2.sh 
+ 1413  ./test2.sh 
+ 1414  javap core.class 
+ 1415  cd ~/bashStuff/
+ 1416  ls -lc
+ 1417  chmod test1.sh +rwe
+ 1418  chmod +rwe test1.sh 
+ 1419  chmod +rwe test1.sh chmod  --help
+ 1420  ./test1.sh
+ 1421  chmod +005 test1.sh 
+ 1422  ./test1.sh
+ 1423  chmod +777 test1.sh 
+ 1424  ./test1.sh
+ 1425  ./test2.sh
+ 1426  ./test1.sh
+ 1427  ./test2.sh
+ 1428  chmod +777 test2.sh 
+ 1429  ./test2.sh
+ 1430  ls -lc
+ 1431  ./test2.sh 
+ 1432  ls -lc
+ 1433  chmod +777 test3.sh 
+ 1434  ./test3.sh 
+ 1435  ls -lc
+ 1436  git init
+ 1437  git add .
+ 1438  git log
+ 1439  git status
+ 1440  git commit
+ 1441  git status
+ 1442  ./test1.sh
+ 1443  git status
+ 1444  cd ~/
+ 1445  ls -lc
+ 1446  cd WSAS/
+ 1447  ls -lc
+ 1448  cat Toni1.txt
+ 1449  cd ~/
+ 1450  ls -lc
+ 1451  cd website/
+ 1452  ls -lc
+ 1453  cd ~/
+ 1454  du
+ 1455  df -h
+ 1456  ls -lc
+ 1457  cat useful.txt 
+ 1458  ls -lc | more
+ 1459  cd ArcTest/
+ 1460  ls -lc 
+ 1461  javap Fiftypp
+ 1462  javap -c Fiftypp  | more
+ 1463  ls -lc 
+ 1464  javap -c ArcTest  | more
+ 1465  ls -lc 
+ 1466  javap -c ArcCanvas  | more
+ 1467  javap -c ArcCanvas  | grep public
+ 1468  cd ~/javaxSwingSMD/
+ 1469  ls -lc 
+ 1470  history 
+ 1471  javap -c -constants Fiftypp  | more
+ 1472  cd ArcTest/
+ 1473  javap -c -constants Fiftypp  | more
+ 1474  cd ~/ArcTest/
+ 1475  javap -c -constants Fiftypp  | more
+ 1476  javap -c -constants Fiftypp 
+ 1477  javap -c -constants Fiftypp cd ~/
+ 1478  cd ~/
+ 1479  ls -lc 
+ 1480  cd NogginTheNog/
+ 1481  ls -lc 
+ 1482  cd ~/scala/
+ 1483  ls -lc 
+ 1484  scalac gears.scala 
+ 1485  cd ~/clojure2016/
+ 1486  ls -lc 
+ 1487  cd clojure/
+ 1488  ls -lc 
+ 1489  javap ThaiDigits
+ 1490  javap ThaiDigits\$1.class 
+ 1491  javap ThaiDigits\$1.class -c
+ 1492  javap -c ThaiDigits\$1.class 
+ 1493  javap -c ThaiDigits.class 
+ 1494  javap ThaiDigits
+ 1495  javap -constants ThaiDigits
+ 1496  javap -constants ThaiDigits\$1.class 
+ 1497  ls -lc
+ 1498  cd stringeye/
+ 1499  ls -lc
+ 1500  cd classes/
+ 1501  ls -lc
+ 1502  cd stringeye/
+ 1503  ls -lc
+ 1504  javap core.class 
+ 1505  javap core\$fn__51.class 
+ 1506  javap core\$make_frame.class 
+ 1507  javap core\$fn__53.class 
+ 1508  javap core\$make_panel.class 
+ 1509  cd ~/javafx/
+ 1510  ls -lc
+ 1511  javap Scene1.class 
+ 1512  javap MyApp.class 
+ 1513  javap MyApp2.class 
+ 1514  javap MyApp.class 
+ 1515  ls -lc
+ 1516  javap Main2.class 
+ 1517  javap Main5.class 
+ 1518  cd ~/scala/
+ 1519  ls -lc
+ 1520  scala
+ 1521  scala > benPuzz1.txt
+ 1522  ls -lc
+ 1523  cat benPuzz1.txt 
+ 1524  cd ~/
+ 1525  mkdir steamRail
+ 1526  cd steamRail/
+ 1527  gedit &
+ 1528  ifconfig 
+ 1529  ifconfig eth0
+ 1530  watch -n 10 ifconfig eth0
+ 1531  cd ~/aspergers/
+ 1532  gedit DealingWithNTs.txt &
+ 1533  cal
+ 1534  cal 2016
+ 1535  ifconfig 
+ 1536  dmesg 
+ 1537  ifconfig 
+ 1538  brasero 
+ 1539  xfburn 
+ 1540  ifconfig 
+ 1541  dmesg 
+ 1542  cd ~/javaLowLevel/
+ 1543  ls -lctr
+ 1544  java ScannerExample 
+ 1545  ls -lct ~/WOW/
+ 1546  ls -lctr ~/WOW/
+ 1547  cd  ~/WOW/
+ 1548  pwd
+ 1549  cd ~/javaLowLevel/
+ 1550  ls -lctr
+ 1551  java ScannerExample 
+ 1552  ls -lctr
+ 1553  java SplitterExample 
+ 1554  java SplitterExample > MKcsv.txt
+ 1555  ls -lctr
+ 1556  more < MKcsv.txt 
+ 1557  git status
+ 1558  git pull
+ 1559  git add ScannerExample.java 
+ 1560  git add SplitterExample.java 
+ 1561  git commit
+ 1562  git status
+ 1563  more < MKcsv.txt 
+ 1564  java SplitterExample > MKcsv.txt
+ 1565  more < MKcsv.txt 
+ 1566  ls -lctr
+ 1567  more < MKcsv.txt 
+ 1568  java SplitterExample > MKcsv.txt
+ 1569  more < MKcsv.txt 
+ 1570  ls -lctr
+ 1571  git status
+ 1572  git add SplitterExample.java 
+ 1573  git commit
+ 1574  git status
+ 1575  cd ~/WOW/
+ 1576  gedit mailoutDraft1.txt &
+ 1577  ls -lctr
+ 1578  ifconfig 
+ 1579  sudo ifconfig eth0 down
+ 1580  ifconfig 
+ 1581  sudo ifconfig eth0 up
+ 1582  ifconfig 
+ 1583  cd ~/javaLowLevel/
+ 1584  git status
+ 1585  git push
+ 1586  git status
+ 1587  ls -lctr
+ 1588  java SplitterExample 
+ 1589  java ScannerExample 
+ 1590  find . -name *.csv
+ 1591  cd ~/
+ 1592  find . -name *.csv
+ 1593  ls -lctr
+ 1594  java SplitterExample 
+ 1595  ls -lctr
+ 1596  ls ~/WOW/
+ 1597  ls ~/WOW/  -lctr
+ 1598  cd ~/WOW
+ 1599  mv subscribers-Marilyn.csv subscribers-Marilyn-old1.csv
+ 1600  mv subscribers-Marilyn2.csv subscribers-Marilyn.csv
+ 1601  ls -lctr
+ 1602  cd ~/javaLowLevel/
+ 1603  java SplitterExample 
+ 1604  cal
+ 1605  ifconfig 
+ 1606  watch -n 10 ifconfig  eth0 
+ 1607  gedit &
+ 1608  vlc &
+ 1609  cvlc &
+ 1610  vlc &
+ 1611  vlc --help
+ 1612  vlc http://eno.emit.com:8000/3mbs_live_64.aacp  &
+ 1613  ls -lctr
+ 1614  geany tabgen.java &
+ 1615  geany TabGen.java &
+ 1616  ls -lctr
+ 1617  geany TabGen.java < TabGenIn.txt 
+ 1618  ls -lctr
+ 1619  geany TabGen.java < TabGenIn.txt 
+ 1620  java TabGen < TabGenIn.txt 
+ 1621  ls -lctr
+ 1622  git status
+ 1623  ls -lctr
+ 1624  java SplitterExample 
+ 1625  java TabGen  < TabGenIn.txt 
+ 1626  git status
+ 1627  git add SplitterExample.java 
+ 1628  git add TabGen.java 
+ 1629  git commit
+ 1630  git status
+ 1631  more < MKcsv.txt 
+ 1632  pwd
+ 1633  java TabGen 
+ 1634  cat TabGenIn.txt 
+ 1635  java TabGen 
+ 1636  ls -lctr
+ 1637  java TabGen 
+ 1638  ifconfig 
+ 1639  ls -lctr
+ 1640  java TabGen > TabGenOut2.html 
+ 1641  ls -lctr
+ 1642  java TabGen > TabGenOut2.html 
+ 1643  git status
+ 1644  git add TabGen.java 
+ 1645  git commit
+ 1646  git status
+ 1647  ls -lctr
+ 1648  cd ~/WOW
+ 1649  cd ~/javaLowLevel/
+ 1650  java SplitterExample
+ 1651  ls -lctr
+ 1652  java SplitterExample
+ 1653  ls ~/WOW/em*
+ 1654  java SplitterExample2 
+ 1655  ls -lctr
+ 1656  javap SplitterExample2.class 
+ 1657  javap -c SplitterExample2.class 
+ 1658  java SplitterExample2 
+ 1659  cd ~/WOW/
+ 1660  ls -lctr
+ 1661  pwd
+ 1662  cd ~/javaLowLevel/
+ 1663  find . -name Thai*
+ 1664  ls -lctr
+ 1665  ls -lc
+ 1666  cd ~/
+ 1667  find . -name Thai*
+ 1668  cd ~/clojure2016/clojure/
+ 1669  java ThaiDigits 
+ 1670  geany ThaiDigits.java 
+ 1671  git status
+ 1672  git add ThaiDigits.java 
+ 1673  git commit
+ 1674  git status
+ 1675  ls -lctr
+ 1676  cd stringeye/
+ 1677  ls -lctr
+ 1678  java -jar stringeye-0.1.0-SNAPSHOT-standalone.jar 
+ 1679  tree
+ 1680  lein uberjar
+ 1681  ls -lctr
+ 1682  git status
+ 1683  cd ~/javaLowLevel/
+ 1684  git status
+ 1685  git add TabGen.java 
+ 1686  git commit
+ 1687  git status
+ 1688  cat TabGenOut2.html 
+ 1689  git add TabGenOut2.html 
+ 1690  git commit 
+ 1691  git status
+ 1692  cd ~/LUV/
+ 1693  gedit &
+ 1694  grep DG .
+ 1695  grep DG *.*
+ 1696  grep DG *
+ 1697  grep DG 
+ 1698  grep -nr DG .
+ 1699  cal
+ 1700  cd ~/javaLowLevel/
+ 1701  ls -lctr
+ 1702  git push
+ 1703  geany &
+ 1704  gtk-colours
+ 1705  gtk_colours 
+ 1706  cd ~/gtk-colours/
+ 1707  ls
+ 1708  tree
+ 1709  cd Debug/src/
+ 1710  tree
+ 1711  cat gtk_colours.txt 
+ 1712  tree
+ 1713  cat gtk-colours.txt 
+ 1714  tree
+ 1715  cd ..
+ 1716  tree
+ 1717  cd ..
+ 1718  tree
+ 1719  cd src/
+ 1720  tree
+ 1721  make
+ 1722  cd ../Debug/
+ 1723  tree
+ 1724  make
+ 1725  ls -lctr
+ 1726  tree src/
+ 1727  cd src/
+ 1728  ls -lctr
+ 1729  ./gtk_colours 
+ 1730  ls -lctr
+ 1731  make
+ 1732  ls -lctr
+ 1733  ./gtk_colours 
+ 1734  ls -lctr
+ 1735  cd ..
+ 1736  ls -lctr
+ 1737  tree
+ 1738  cd ..
+ 1739  tree
+ 1740  cd src/
+ 1741  tree
+ 1742  ls -lctr
+ 1743  git status
+ 1744  cd ..
+ 1745  git status
+ 1746  tree
+ 1747  more < treeColours.txt 
+ 1748  git init
+ 1749  git status
+ 1750  git add src/main.c
+ 1751  git add src/gtk_colours.ui 
+ 1752  git status
+ 1753  ls -lctr
+ 1754  git status
+ 1755  cd src/
+ 1756  ls -lctr
+ 1757  more < Makefile.in 
+ 1758  ls -lctr
+ 1759  more < Makefile.am
+ 1760  git add Makefile.in Makefile.am 
+ 1761  git status
+ 1762  git commit 
+ 1763  git status
+ 1764  cd ..
+ 1765  git status
+ 1766  tree
+ 1767  git status
+ 1768  cd src/
+ 1769  git status
+ 1770  cd ..
+ 1771  git status
+ 1772  more < debug1.txt 
+ 1773  more < debug3.txt 
+ 1774  cd ~/bikeGears/
+ 1775  tree
+ 1776  java -jar bikeGears-1.0.1-SNAPSHOT-standalone.jar 
+ 1777  git status
+ 1778  ls -lctr
+ 1779  lein uberjar
+ 1780  java -jar bikeGears-1.0.1-SNAPSHOT-standalone.jar 
+ 1781  ls -lctr
+ 1782  cd ~/
+ 1783  ls -lc
+ 1784  ls -lct
+ 1785  ls -lc
+ 1786  pwd
+ 1787  cd ~/
+ 1788  history | grep find
+ 1789  find . -nr orage
+ 1790  find . -name orage
+ 1791  cd  ./.local/share/
+ 1792  ls -lctr
+ 1793  cd orage/
+ 1794  ls -lctr
+ 1795  more < orage.ics 
+ 1796  more < orage_persistent_alarms.txt 
+ 1797  cd ../vlc/
+ 1798  ls -lctr
+ 1799  more < ml.xspf 
+ 1800  ifconfig 
+ 1801  ifconfig eht6
+ 1802  ifconfig eth6
+ 1803  watch -n 10 ifconfig eth6
+ 1804  history | grep watch
+ 1805  route -n
+ 1806  cd ~/
+ 1807  cd Linux-tricks-and-tips/
+ 1808  git pull
+ 1809  ls -lctr
+ 1810  cat tips1.txt 
+ 1811  grep java .
+ 1812  gedit tips1.txt &
+ 1813  git status
+ 1814  git add tips1.txt
+ 1815  git commit
+ 1816  git status
+ 1817  git push
+ 1818  git pull
+ 1819  javac -version
+ 1820  scala
+ 1821  javac -version
+ 1822  cd ~/WOW/
+ 1823  ls -lctr
+ 1824  cd ~/javaLowLevel/
+ 1825  ls -lctr
+ 1826  geany &
+ 1827  geany SplitterExample.java 
+ 1828  cd ~/ 
+ 1829  history | grep find
+ 1830  find . -name *.csv
+ 1831  cd ~/WOW/
+ 1832  ls -lctr
+ 1833  more < testCSV.csv 
+ 1834  cd ~/javaxSwingSMD/
+ 1835  ls -lctr
+ 1836  tree
+ 1837  cd src/
+ 1838  tree
+ 1839  cd javaxSwingSMD/
+ 1840  tree
+ 1841  cat core.clj 
+ 1842  cd ~/scala
+ 1843  ls -lctr
+ 1844  ifconfig 
+ 1845  cd ~/scala2118/
+ 1846  tree
+ 1847  ls -lctr
+ 1848  cd scala-2.11.8/
+ 1849  ls -lctr
+ 1850  cd bin
+ 1851  ls -lctr
+ 1852  scala
+ 1853  ./scala
+ 1854  pwd
+ 1855  ./scala   ~/scala/gears.scala 
+ 1856  ./scalac   ~/scala/gears.scala 
+ 1857  ls -lctr
+ 1858  ./scala BikeGears
+ 1859  ls -lctr
+ 1860  scalap BikeGears.class 
+ 1861  ./scalap BikeGears.class   
+ 1862  ./scalap BikeGears
+ 1863  ./scalap BikeGears\$
+ 1864  ./scalap BikeGears\$\$anonfun\$main\$1
+ 1865  ls -lctr
+ 1866  cd ~/
+ 1867  ls -lc
+ 1868  gtk_colours 
+ 1869  cd ~/scala2118/
+ 1870  pwd
+ 1871  ls
+ 1872  cd scala-2.11.8/
+ 1873  ls
+ 1874  ls bin/
+ 1875  cd scala-2.11.8/bin
+ 1876  ls -lc
+ 1877  pwd
+ 1878  CLASSPATH = /home/mikeh/scala2118/scala-2.11.8
+ 1879  set
+ 1880  pwd
+ 1881  set 
+ 1882  pwd
+ 1883  set CLASSPATH = /home/mikeh/scala2118/scala-2.11.8
+ 1884  export 
+ 1885  echo $PATH
+ 1886  echo $CLASSPATH
+ 1887  echo $HOME
+ 1888  set $CLASSPATH = /home/mikeh/scala2118/scala-2.11.8
+ 1889  export 
+ 1890  echo $CLASSPATH
+ 1891  export 
+ 1892  CLASSPATH = /home/mikeh/scal18/scala-2.11.8
+ 1893  set
+ 1894  cat scala.bat 
+ 1895  ls -lctr
+ 1896  cat fsc.bat 
+ 1897  more < scalap.bat 
+ 1898  ls -lctr
+ 1899  dmesg 
+ 1900  ifconfig 
+ 1901  export 
+ 1902  cd ~/
+ 1903  history | grep find
+ 1904  find . -name .profile
+ 1905  sudo find . -name .profile
+ 1906  ls -lca
+ 1907  cat  .profile
+ 1908  export | grep HOME
+ 1909  export | grep PATH
+ 1910  ls sc* -lc
+ 1911  ls sca* -lc
+ 1912  cd scala2118/
+ 1913  ls -lc
+ 1914  cd activator-dist-1.3.10/
+ 1915  ls -lc
+ 1916  pwd
+ 1917  ls -lc
+ 1918  cd bin 
+ 1919  ls -lc
+ 1920  ./activator
+ 1921  ls -lc
+ 1922  tree
+ 1923  brasero 
+ 1924  top
+ 1925  cd ~/WOW/
+ 1926  gedit todo1.txt &
+ 1927  cd ~/scala
+ 1928  ls -lc
+ 1929  scalac gears.scala 
+ 1930  find . -name scalac
+ 1931  cd ~/
+ 1932  find . -name scalac
+ 1933  sudo find . -name scalac
+ 1934  sudo find . -name scalac.*
+ 1935  ln
+ 1936  ln --help
+ 1937  mkdir linkTest
+ 1938  cd linkTest/
+ 1939  ls -lc
+ 1940  touch target1.txt
+ 1941  ls -lc
+ 1942  pwd
+ 1943  ln -s /home/mikeh/linkTest/target1.txt   /home/mikeh/linkTest/pointer
+ 1944  ls -lc
+ 1945  cat pointer 
+ 1946  gedit target1.txt &
+ 1947  cat pointer 
+ 1948  find . -name scalac
+ 1949  find / -name scalac
+ 1950  ls -lc
+ 1951  ln -s /home/mikeh/scala2118/scala-2.11.8/bin/scalac  /home/mikeh/linkTest/scalacComp
+ 1952  ls -lc
+ 1953  ./scalacComp ls ~/scala
+ 1954  ls ~/scala
+ 1955  ls ~/scala   -lc
+ 1956  ./scalacComp ~/scala/gears.scala 
+ 1957  ls -lc
+ 1958  ./scalacComp ~/scala/locale.scala 
+ 1959  ls -lc
+ 1960  java DateFormatDemoSO 
+ 1961  xfburn 
+ 1962  ls -lc
+ 1963  ls -lc
+ 1964  brasero 
+ 1965  ls -lc
+ 1966  cd ~/scala2118/
+ 1967  ls -lc
+ 1968  cd scala-2.11.8/
+ 1969  ls -lc
+ 1970  cd bin/
+ 1971  ls -lc
+ 1972  ./scala  ~/linkTest/BikeGears
+ 1973  ./scala  ~/linkTest/DateFormatDemoSO
+ 1974  ./scala  ~/linkTest/DateFormatDemoSO.class
+ 1975  ./scalap  ~/linkTest/DateFormatDemoSO.class
+ 1976  cat scala.bat 
+ 1977  ls -lc
+ 1978  java  ~/linkTest/DateFormatDemoSO.class
+ 1979  java  ~/linkTest/DateFormatDemoSO
+ 1980  cp ~/scala/gears.scala .
+ 1981  ls -lctr
+ 1982  scalac gears.scala 
+ 1983  ./scalac gears.scala 
+ 1984  ls -lctr
+ 1985  ./scala  BikeGears
+ 1986  history 
+ 1987  ./scala  BikeGears
+ 1988  ./scalap BikeGears
+ 1989  ./scalap -c BikeGears
+ 1990  ls -lctr
+ 1991  ./scalap -c BikeGears\$\$anonfun\$main\$1
+ 1992  ./scalap  BikeGears\$\$anonfun\$main\$1
+ 1993  ./scalap  BikeGears\$\$anonfun\$main\$1\$\$anonfun\$apply\$mcVD\$sp\$1.class 
+ 1994  ls -lctr
+ 1995  ./scalap 
+ 1996  ./scalap -verbose BikeGears\$\$anonfun\$main\$1
+ 1997  ./scalap -verbose BikeGears
+ 1998  scala
+ 1999  ./scalap -verbose BikeGears
+ 2000  cd ~/scala
+ 2001  ls -lctr
+ 2002  tree
+ 2003  git pull
+ 2004  cp ~/linkTest/scalacComp .
+ 2005  ls -lctr
+ 2006  cp ~/linkTest/scalaExe .
+ 2007  ls -lctr
+ 2008  ./scalacComp locale.scala 
+ 2009  ls -lc
+ 2010  ls -lctr
+ 2011  ./scalaExe DateFormatDemoSO
+ 2012  ls -lctr
+ 2013  git pull https://github.com/MatrixMike/scala.git
+ 2014  ls -lctr
+ 2015  git status
+ 2016  ls -ilctr
+ 2017  ./scalacComp locale.scala 
+ 2018  ./scalaExe DateFormatDemoSO
+ 2019  git status
+ 2020  cat benPuzz1.txt 
+ 2021  git add benPuzz1.txt scalaExe scalacComp 
+ 2022  git status
+ 2023  git commit
+ 2024  git status
+ 2025  ls -ilctr
+ 2026  cd scala/
+ 2027  ls -ilctr
+ 2028  ./scalacComp hw.scala 
+ 2029  .././scalacComp hw.scala 
+ 2030  cd sca
+ 2031  ls -ilctr
+ 2032  cd hello/
+ 2033  ls -ilctr
+ 2034  cd  ..
+ 2035  ls -ilctr
+ 2036  cd ..
+ 2037  ls -ilctr
+ 2038  cat javaIO.scala 
+ 2039  ls -ilctr
+ 2040  grep Date .
+ 2041  cat FrenchDate.scala 
+ 2042  cat locale.scala 
+ 2043  geany 
+ 2044  geany &
+ 2045  ls -ilctr
+ 2046  git status
+ 2047  ls *.class -lc
+ 2048  rm *.class 
+ 2049  ls -ilctr
+ 2050  cat nested3loops.scala 
+ 2051  git status
+ 2052  ls scala
+ 2053  git status
+ 2054  ls -ilctr
+ 2055  git status
+ 2056  cat README.md 
+ 2057  ls -ilctr
+ 2058  cp ~/linkTest/scalap .
+ 2059  ls -ilctr
+ 2060  ./scalap ~/linkTest/Test1.class 
+ 2061  git status
+ 2062  ./scalap ~/linkTest/Test1
+ 2063  git status
+ 2064  git add locale.scala scalap 
+ 2065  git commit
+ 2066  git status
+ 2067  history 
+ 2068  ls -ilctr
+ 2069  cat scalap 
+ 2070  git status
+ 2071  git push https://github.com/MatrixMike/scala.git
+ 2072  git status
+ 2073  ls -ilctr
+ 2074  git status
+ 2075  git add readScreen.scala 
+ 2076  git commit
+ 2077  git status
+ 2078  git push https://github.com/MatrixMike/scala.git
+ 2079  ls -ilctr
+ 2080  cal
+ 2081  ls -ilctr
+ 2082  git status
+ 2083  git add README.md 
+ 2084  git commit
+ 2085  git status
+ 2086  git push https://github.com/MatrixMike/scala.git
+ 2087  history 
+ 2088  git status
+ 2089  ls -ilctr
+ 2090  history > history1.txt
