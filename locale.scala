@@ -29,7 +29,7 @@ var df = getDateInstance(LONG, Locale.UK)
 	
 	df = getDateInstance(LONG, Locale.FRANCE)
 	println(df format now)
-	System.out.println("Debug1 ");
+	System.out.print("Debug1 ");
 
 	df = getDateInstance(LONG, Locale.KOREA)
 	println(df format now)
@@ -51,7 +51,7 @@ var df = getDateInstance(LONG, Locale.UK)
 	
 	df = getDateInstance(LONG, Locale.PRC)
 	println(df format now)
-	System.out.println("Debug2 ");	
+	System.out.print("Debug2 ");	
 		df = getDateInstance(LONG, Locale.ROOT)
 	println(df format now)
 /*	
