@@ -9,7 +9,7 @@
 import scala.collection.mutable.ListBuffer
 
 
-object BikeGearsSR{
+object steveRed{
 def main(args: Array[String]) {
 var a = 0;
 var FrontList = List(22.0, 32.0, 42.0);  // make float so division is 
@@ -27,9 +27,9 @@ for( a <- FrontList; b <- RearList ){
 // if a < 8 ;
  // if a >=2){
  // RatioList = RatioList .::: a/b
-	ratios += a/b 
+	ratios += a/b 					// add computed result to end of list?
 
-	println( "Gear ratio of F/R: "   + a, +b,
+	println( "Gear ratio of F/R:  "   + a, +b,
 	a/b) ;
 }
 
@@ -39,9 +39,10 @@ println( "\n");
 	//println( ratios );   // unsorted
 	val ratiosList = ratios.toList
 // println("spacer line");
-	for ( a <- ratiosList.sorted ) {
+	for ( a <- ratios.toList.sorted ) {
+// xxx 	for ( a <- ratiosList.sorted ) {
 	// keep as example printf ("ratios %4.2f "+ a);
-		printf("ratio %f \n", a);
+		printf("ratio %4.2f \n", a);
 	}
 	
 	println("Steve's Red Bike");
