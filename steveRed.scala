@@ -29,8 +29,8 @@ for( a <- FrontList; b <- RearList ){
  // RatioList = RatioList .::: a/b
 	ratios += a/b 					// add computed result to end of list?
 
-	println( "Gear ratio of F/R:  "   + a, +b,
-	a/b) ;
+	printf("Gear ratio : %5.3f %4.2f %4.2f", 1.2,2.3,7.0/3);
+	println( "Gear ratio of F/R:  "   + a, +b, a/b) ;
 }
 
 println( "\n");
@@ -42,7 +42,7 @@ println( "\n");
 	for ( a <- ratios.toList.sorted ) {
 // xxx 	for ( a <- ratiosList.sorted ) {
 	// keep as example printf ("ratios %4.2f "+ a);
-		printf("ratio %4.2f \n", a);
+		printf("ratio %5.3f \n", a);
 	}
 	
 	println("Steve's Red Bike");
