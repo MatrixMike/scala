@@ -8,5 +8,6 @@ val now = new Date
 // val df = getDateInstance(LONG, Locale.FRANCE)
 val df = getDateInstance(LONG, Locale.UK)
 	println(df format now)
+	println("end of prog")
 	}
 }
