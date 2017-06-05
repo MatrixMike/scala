@@ -16,10 +16,10 @@ var FrontList = List(27.0, 39.0, 47.0);
 var RearList = List(32, 28, 24, 21, 18, 15, 13, 11);  // Phyllis white bike 
 // var RatioList = Nil;
 // for loop execution with multiple filters
- var ratios = new ListBuffer[Double]()
+ var ratiosl = new ListBuffer[Double]()
 
 
-val ratio = "ratio" 
+val ratiostr = "ratio" 
 
 for( a <- FrontList; b <- RearList ){
 // if a != 3;
@@ -27,16 +27,16 @@ for( a <- FrontList; b <- RearList ){
 // if a < 8 ;
  // if a >=2){
  // RatioList = RatioList .::: a/b
-	var ratios = a/b 
+	var ratiosl = a/b 
 
-	println(f"Gear $ratio%s of F/R: $ratios%3.4f  "  ) // was println
+	println(f"Gear $ratiostr%s of F/R: $ratiosl%3.4f  "  ) // was println
 }
 
 // println( "\n");
 
 	//println( RatioList );
 	//println( ratios );   // unsorted
-	val ratiosList = ratios.toList
+	val ratiosList = ratiosl.toList
 // println("spacer line");
 	for ( a <- ratiosList.sorted ) {
 	// keep as example printf ("ratios %4.2f "+ a);
