@@ -19,6 +19,7 @@ var RearList = List(32, 28, 24, 21, 18, 15, 13, 11);  // Phyllis white bike
  var ratios = new ListBuffer[Double]()
 
 
+val ratio = "ratio" 
 
 for( a <- FrontList; b <- RearList ){
 // if a != 3;
@@ -26,13 +27,12 @@ for( a <- FrontList; b <- RearList ){
 // if a < 8 ;
  // if a >=2){
  // RatioList = RatioList .::: a/b
-	ratios += a/b 
+	val ratios = a/b 
 
-	println( "Gear ratio of F/R: "   + a, +b,
-	a/b) ;
+	println(f"Gear ratio of F/R: $ratios%3.4f  "  ) // was println
 }
 
-println( "\n");
+// println( "\n");
 
 	//println( RatioList );
 	//println( ratios );   // unsorted
