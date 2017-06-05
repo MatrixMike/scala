@@ -27,9 +27,9 @@ for( a <- FrontList; b <- RearList ){
 // if a < 8 ;
  // if a >=2){
  // RatioList = RatioList .::: a/b
-	val ratios = a/b 
+	var ratios = a/b 
 
-	println(f"Gear ratio of F/R: $ratios%3.4f  "  ) // was println
+	println(f"Gear $ratio%s of F/R: $ratios%3.4f  "  ) // was println
 }
 
 // println( "\n");
@@ -41,6 +41,7 @@ for( a <- FrontList; b <- RearList ){
 	for ( a <- ratiosList.sorted ) {
 	// keep as example printf ("ratios %4.2f "+ a);
 		printf("ratio %f \n", a);
+		println("loop")
 	}
 	
 	println("Phyllis White Bike");
