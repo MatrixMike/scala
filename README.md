@@ -6,3 +6,8 @@ from Inspiron scala
 # did this and then compiled the code with new version - but using soft links ( ln ) in Linux
 # to point to the compiler etc 
 # scalap -verbose <class> // is instructive 
+
+scalac gears.scala  // gears.scala contains 'object BikeGears{'
+scala BikeGears
+
+
